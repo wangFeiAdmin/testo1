@@ -10,4 +10,8 @@ public class testDemo {
 
     }
 
+    public static void show(){
+        System.out.println("版本还未更新演示");
+    }
+
 }
