@@ -14,4 +14,8 @@ public class testDemo {
         System.out.println("版本还未更新演示");
     }
 
+    public static void show2(){
+        System.out.println("测试2");
+    }
+
 }
