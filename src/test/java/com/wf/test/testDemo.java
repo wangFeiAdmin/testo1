@@ -6,4 +6,8 @@ public class testDemo {
         System.out.println("hellowrd ,two");
     }
 
+    public static void show(){
+        System.out.println("版本还未更新演示");
+    }
+
 }
